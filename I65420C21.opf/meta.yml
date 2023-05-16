@@ -1,0 +1,19 @@
+id: I65420C21
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:15.481356
+last_modified: 2023-01-04 11:32:15.481372
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  23B5:
+    title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+      of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+    base_file: 23B5.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
